@@ -1,0 +1,8 @@
+[package]
+
+name = "mio-example"
+version = "0.0.1"
+authors = ["calc0000 <ewf>"]
+
+[dependencies.mio]
+git = "https://github.com/carllerche/mio"
